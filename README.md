@@ -8,7 +8,7 @@
 
 ### My Startup Tech Community:
 
-[![Community](https://discordapp.com/api/guilds/1103528345670524999/widget.png?style=banner2)]([https://discord.gg/ZYfWTSusXG](https://discord.gg/MRr6gaZDJP)) 
+[![Community](https://discordapp.com/api/guilds/1103528345670524999/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG) 
 
 ------------------------------------------- 
 
