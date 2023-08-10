@@ -1,4 +1,4 @@
-![](/assets/ziza.gif)(https://www.facebook.com/jyrnv/)
+![](/assets/ziza.gif)
 ------------------------------------------- 
 ### Socials: 
 <a href="www.linkedin.com/in/jay-ar-nava-97b7a7223"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/jyrnv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/zizatheprogrammer/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="mailto: winfourteen@gmail.com">
