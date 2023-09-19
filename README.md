@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React.js, Next.js MongoDB... or anything**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.**
  
  </div>
  
