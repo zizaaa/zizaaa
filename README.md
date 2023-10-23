@@ -9,7 +9,7 @@
 ### My Startup Tech Community:
 
 [![Community](https://discordapp.com/api/guilds/1103528345670524999/widget.png?style=banner2)](https://discord.gg/v2Sdw89eBm) 
-<iframe src="https://discord.com/widget?id=1103528345670524999&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ------------------------------------------- 
 
 ### Tech Stack:
