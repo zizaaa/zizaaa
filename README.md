@@ -1,44 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rosanno.rosanno" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rosanno+Macabuhay!;" />
-</h1>
+[![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/assets/ziza.gif)](https://www.facebook.com/jyrnv)
 
-<h3 align="center">A passionate full-stack developer from philippines ph</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **React Native, Flutter**
-
- 💬 Ask me about **Node.js, React.js, Next.js MongoDB... or anything**
-
- ⚡ Fun fact **Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.**
- 
+ <div align="center">
+    <a href="https://www.linkedin.com/in/jay-ar-nava-97b7a7223/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+     <a href="https://www.facebook.com/jyrnv/">
+         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+     </a> 
+     <a href="https://www.instagram.com/zizatheprogrammer/">
+             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+     </a>
+     <a href="mailto: winfourteen@gmail.com">
+         <img src="https://img.shields.io/badge/-winfourteen@gmail.com-7B83EB?style=for-the-badge&logo=gmail&logoColor=red" />
+     </a>
  </div>
  
-<div align="center"> 
-  <a href="mailto:rosannomacabuhay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/rosanno-m-b7bb04206/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://rosanno-3-d-portfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,php,javascript,typescript,express,redux,mongodb,vite,laravel,java,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,react,tailwind,bootstrap,mui,mysql,postgres,next,html,css,vscode,figma,git,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,vite,zustand" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vscode,git,postman" />
 </div>
 
 <br/>
@@ -47,7 +31,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rosanno/rosanno/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zizaaa/zizaa/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,10 +41,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rosanno&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rosanno&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=zizaaa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zizaaa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanno&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizaaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
