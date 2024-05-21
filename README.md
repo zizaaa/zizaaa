@@ -1,3 +1,8 @@
+<div>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zizaaa" />
+</div>
+<br/>
+ 
 [![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/.github/workflows/ziza.gif)](https://www.facebook.com/jyrnv)
 <br/>
 <br/>
@@ -18,7 +23,7 @@
          <img src="https://img.shields.io/badge/-winfourteen@gmail.com-7B83EB?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
  </div>
- 
+
 <br/>
 <br/>
 
