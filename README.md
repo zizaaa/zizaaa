@@ -1,3 +1,6 @@
+[![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/.github/workflows/ziza.gif)](https://www.facebook.com/jyrnv)
+<br/>
+<br/>
  <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </div>
@@ -15,9 +18,9 @@
          <img src="https://img.shields.io/badge/-winfourteen@gmail.com-7B83EB?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
  </div>
-
-[![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/.github/workflows/ziza.gif)](https://www.facebook.com/jyrnv)
  
+<br/>
+<br/>
 
 <div align="center">
      <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -26,7 +29,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -38,12 +40,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
  <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com/?user=zizaaa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=zizaaa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  </div>
  <br>
 <div style="display: flex; justify-content: center;" align=center>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zizaaa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizaaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zizaaa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizaaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
