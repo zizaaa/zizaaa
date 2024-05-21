@@ -1,7 +1,7 @@
-
-[![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/.github/workflows/ziza.gif)](https://www.facebook.com/jyrnv)
-
- <div align="center">
+ <div id="header" align="center">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ </div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/jay-ar-nava-97b7a7223/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a> 
@@ -15,12 +15,12 @@
          <img src="https://img.shields.io/badge/-winfourteen@gmail.com-7B83EB?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
  </div>
+
+[![@zizaaa](https://github.com/zizaaa/zizaaa/blob/main/.github/workflows/ziza.gif)](https://www.facebook.com/jyrnv)
  
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
+     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,vite,zustand" /><br>
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vscode,git,postman" />
 </div>
@@ -30,10 +30,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zizaaa/zizaa/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zizaaa/zizaa/output/github-contribution-grid-snake.svg" />  
 </div>
 
 <hr/>
