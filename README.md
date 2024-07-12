@@ -23,7 +23,15 @@
          <img src="https://img.shields.io/badge/-winfourteen@gmail.com-7B83EB?style=for-the-badge&logo=gmail&logoColor=red" />
      </a>
  </div>
+<br>
+<div align="center">
+  
+  🌱 I’m currently learning **React Native**
 
+ 💬 Ask me about **Node.js, React.js, MongoDB... or anything**
+ 
+</div>
+ 
 <br/>
 <br/>
 
