@@ -26,7 +26,7 @@
 <br>
 <div align="center">
   
-  🌱 I’m currently learning **Typescript and postgreSQL**
+  🌱 I’m currently learning **React Native**
 
  💬 Ask me about **Node.js, React.js, MongoDB... or anything**
  
